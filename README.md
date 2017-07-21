@@ -33,14 +33,14 @@ And the message "Buy a 2L water." will be displayed at 08:15.
 
 ## Usage
 
-  $ reminba
-  No time given.
-  [Usage]
-      reminba TIME MESSAGE
-
-  [Sample]
-      reminba 1245 Buy a 2L water.
-      reminba 0915 Review in Meeting-Room-A.
+    $ reminba
+    No time given.
+    [Usage]
+        reminba TIME MESSAGE
+    
+    [Sample]
+        reminba 1245 Buy a 2L water.
+        reminba 0915 Review in Meeting-Room-A.
 
 ## Requirement
 
