@@ -50,6 +50,6 @@ rem ----------
 	echo     %~n0 TIME MESSAGE
 	echo.
 	echo [Sample]
-	echo     %~n0 1245 Buy a 2L water.
-	echo     %~n0 0915 Review in Meeting-Room-A.
+	echo     %~n0 1245 "Buy a 2L water."
+	echo     %~n0 0915 "Review in Meeting-Room-A."
 	exit /b
