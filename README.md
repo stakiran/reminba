@@ -85,7 +85,7 @@ To satisfy the requirement-2.
 
 This AbortRetryIgnore dialog can be closed when the selection 'Ignore' is selected.
 
-Run `dialog_test.bat` for check this behaviour.
+Run [dialog_test.bat](dialog_test.bat) for check this behaviour.
 
 ### Q: Why use sleeping?
 
