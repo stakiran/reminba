@@ -10,6 +10,7 @@ A simple one-line CLI reminder for Windows.
   - [Requirement](#requirement)
   - [Installation](#installation)
   - [FAQ](#faq)
+    - [Q: How to create a alias to reminba.bat for run quickly.](#q-how-to-create-a-alias-to-reminbabat-for-run-quickly)
     - [Q: Why use VBS for dialog?](#q-why-use-vbs-for-dialog)
     - [Q: Why use AbortRetryIgnore dialog?](#q-why-use-abortretryignore-dialog)
     - [Q: Why use sleeping?](#q-why-use-sleeping)
@@ -52,6 +53,18 @@ And the message "Buy a 2L water." will be displayed at 08:15.
 2. Create a shortcut or alias to open `reminba.bat`.
 
 ## FAQ
+
+### Q: How to create a alias to reminba.bat for run quickly.
+
+There are many ways, but the most simple way is below.
+
+- (1) Open [reminba_alias_sample.bat](reminba_alias_sample.bat) with your text editor.
+- (2) Edit `(REMINBA-PATH)\` to your environment.
+- (3) Move reminba_alias_sample.bat to your favorite directory.
+
+Demo.
+
+![ws0028](https://user-images.githubusercontent.com/23325839/28486448-de07d9f4-6ebc-11e7-9901-4ec1b2927e34.JPG)
 
 ### Q: Why use VBS for dialog?
 
