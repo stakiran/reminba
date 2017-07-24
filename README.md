@@ -111,6 +111,12 @@ To use milliseconds sleeping.
 
 `cscript %~dp0sleep.vbs //Nologo` command? No, same as powershell ways.
 
+### Q: Why cpu usage is high on x86 Windows7?
+
+![reminba_cpu_usage_high](https://user-images.githubusercontent.com/23325839/28517567-bf2a1508-709f-11e7-88b6-385ada9c92c5.jpg)
+
+The behavior is not a bug but by design :sweat:.
+
 ## License
 
 [MIT License](LICENSE)
